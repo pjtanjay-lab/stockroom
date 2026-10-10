@@ -439,3 +439,9 @@ tbody tr:hover {
     font-size: 10px;
     color: #92978e;
 }
+
+footer p{
+    padding: 20px;
+    background-color: rgb(154, 119, 119);
+    font-weight: bold;
+}
